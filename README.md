@@ -1,5 +1,6 @@
 # marqjone.github.io
 
-## New Repo 
 
-# Marquette Jones
+# **Marquette Jones**
+
+<p> This is a message from the second day of orientation! </p>
